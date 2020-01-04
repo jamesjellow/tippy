@@ -33,8 +33,7 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+The main challenges of the app were working with swift for the first time.
 ## License
 
     Copyright [2020] [Gabe De Mesa]
